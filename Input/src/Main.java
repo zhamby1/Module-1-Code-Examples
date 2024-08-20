@@ -4,6 +4,8 @@ public class Main {
         //create an instance of the scanner object
         //we have to 'activate' the scanner object and attach it to a variable
         //because Java is a 'strongly typed language' we have to declare the scanner type
+
+        //Scanner is the type, myscanner is var name, new Scanner creates instance of scanner, System.in is the argument that says use the System input to grab the data
         Scanner myscanner = new Scanner(System.in);
         System.out.println("Enter your name ");
         //by default a scanner takes in everything as a string

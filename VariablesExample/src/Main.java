@@ -5,12 +5,15 @@ public class Main {
         //declare a variable..
         //you have to use it's data type before you declare it
         //int, float, double, string etc..
-        //int whole number
-        //long whole number double range of int
-        //float decimal number
-        //double decimal number double range of a float
+        //int - whole number
+        //long - whole number double range of int
+        //float - decimal number
+        //double - decimal number double range of a float
+        //String - text
 
-        //arithmetic operations are the same in Java as other langauages - +,-,*,/
+        //java data types and ranges - https://www.w3schools.com/java/java_data_types.asp
+
+        //arithmetic operations are the same in Java as other langauages: +,-,*,/
 
         int number1 = 15;
         int number2 = 20;
@@ -36,6 +39,8 @@ public class Main {
         //Math.pow(base,exponent);
         double expon = Math.pow(2,3);
         System.out.println(expon);
+
+        //strings are text. They must use a capital 'S' in string.
 
         String myname = "Zach";
         int age = 39;
