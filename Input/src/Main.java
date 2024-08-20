@@ -20,6 +20,7 @@ public class Main {
         //nextDouble() to grab doubles
         double bankaccount = myscanner.nextDouble();
         System.out.println("My bank account balance is " + bankaccount);
+        System.out.println("This is change");
 
 
     }
