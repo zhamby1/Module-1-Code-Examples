@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Casting-aka-conversion/Casting-aka-conversion.iml" filepath="$PROJECT_DIR$/Casting-aka-conversion/Casting-aka-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-1-Code-Examples.iml" filepath="$PROJECT_DIR$/Module-1-Code-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablesExample/VariablesExample.iml" filepath="$PROJECT_DIR$/VariablesExample/VariablesExample.iml" />
+    </modules>
+  </component>
+</project>
