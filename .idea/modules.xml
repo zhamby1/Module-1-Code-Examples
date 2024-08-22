@@ -3,9 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Casting-aka-conversion/Casting-aka-conversion.iml" filepath="$PROJECT_DIR$/Casting-aka-conversion/Casting-aka-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Do-While-Loop/Do-While-Loop.iml" filepath="$PROJECT_DIR$/Do-While-Loop/Do-While-Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Else-If-Compound/Else-If-Compound.iml" filepath="$PROJECT_DIR$/Else-If-Compound/Else-If-Compound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For-Loop/For-Loop.iml" filepath="$PROJECT_DIR$/For-Loop/For-Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If-Else/If-Else.iml" filepath="$PROJECT_DIR$/If-Else/If-Else.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method-Parameters/Method-Overloading/Method-Overloading.iml" filepath="$PROJECT_DIR$/Method-Parameters/Method-Overloading/Method-Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method-Parameters/Method-Parameters.iml" filepath="$PROJECT_DIR$/Method-Parameters/Method-Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods-Intro/Methods-Intro.iml" filepath="$PROJECT_DIR$/Methods-Intro/Methods-Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods-Returnable/Methods-Returnable.iml" filepath="$PROJECT_DIR$/Methods-Returnable/Methods-Returnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module-1-Code-Examples.iml" filepath="$PROJECT_DIR$/Module-1-Code-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch-Case/Switch-Case.iml" filepath="$PROJECT_DIR$/Switch-Case/Switch-Case.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariablesExample/VariablesExample.iml" filepath="$PROJECT_DIR$/VariablesExample/VariablesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While-Loops/While-Loops.iml" filepath="$PROJECT_DIR$/While-Loops/While-Loops.iml" />
     </modules>
   </component>
 </project>
